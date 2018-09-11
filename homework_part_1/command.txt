@@ -56,7 +56,7 @@ Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ rm -r death_star/
 Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ 
 
 Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ mv millenium_falcon/ yavin_4/
-Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ mv x_wing/ yavin_4/
+Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ mv c
 
 
 

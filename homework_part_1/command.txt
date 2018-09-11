@@ -1,0 +1,72 @@
+1) Stevens-MacBook-Air:homework_part_1 stevenariol$ mkdir death_star
+
+Stevens-MacBook-Air:homework_part_1 stevenariol$ touch darth_vader.txt princess_leia.txt storm_trooper.txt
+
+Stevens-MacBook-Air:homework stevenariol$ mkdir galaxy_far_far_away
+
+Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ mkdir tatooine
+
+Stevens-MacBook-Air:tatooine stevenariol$ touch luke.txt ben_kenobi.txt
+
+Stevens-MacBook-Air:tatooine stevenariol$ mkdir millenium_falcon
+
+Stevens-MacBook-Air:millenium_falcon stevenariol$ touch han_solo.txt chewbaca.txt
+
+2) Stevens-MacBook-Air:tatooine stevenariol$ mv ben_kenobi.txt obi_wan.txt
+
+3)Stevens-MacBook-Air:death_star stevenariol$ cp storm_trooper.txt ../tatooine
+
+4)Stevens-MacBook-Air:tatooine stevenariol$ mv luke.txt millenium_falcon
+Stevens-MacBook-Air:tatooine stevenariol$ mv obi_wan.txt millenium_falcon
+
+Stevens-MacBook-Air:tatooine stevenariol$ mv millenium_falcon ..
+
+Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ mv millenium_falcon death_star
+
+Stevens-MacBook-Air:death_star stevenariol$ mv princess_leia.txt millenium_falcon
+
+5)Stevens-MacBook-Air:millenium_falcon stevenariol$ rm obi_wan.txt
+
+6)Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ mkdir yavin_4
+
+Stevens-MacBook-Air:death_star stevenariol$ mv millenium_falcon/ ../yavin_4
+
+Stevens-MacBook-Air:yavin_4 stevenariol$ mkdir x_wing
+
+Stevens-MacBook-Air:millenium_falcon stevenariol$ mv princess_leia.txt ..
+
+Stevens-MacBook-Air:millenium_falcon stevenariol$ mv luke.txt ../x_wing
+
+Stevens-MacBook-Air:yavin_4 stevenariol$ mv millenium_falcon/ x_wing/ ..
+
+Stevens-MacBook-Air:death_star stevenariol$ mv darth_vader.txt tie_fighter_1
+
+Stevens-MacBook-Air:death_star stevenariol$ cp storm_trooper.txt tie_fighter_2
+Stevens-MacBook-Air:death_star stevenariol$ cp storm_trooper.txt tie_fighter_3
+
+Stevens-MacBook-Air:death_star stevenariol$ mv tie_fighter_1 tie_fighter_2 tie_fighter_3 ..
+
+7)Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ rm -r tie_fighter_2 tie_fighter_3
+
+8)Stevens-MacBook-Air:x_wing stevenariol$ touch the_force.txt
+
+Stevens-MacBook-Air:death_star stevenariol$ mv storm_trooper.txt ..
+Stevens-MacBook-Air:death_star stevenariol$ cd ..
+Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ rm -r death_star/
+Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ 
+
+Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ mv millenium_falcon/ yavin_4/
+Stevens-MacBook-Air:galaxy_far_far_away stevenariol$ mv x_wing/ yavin_4/
+
+
+
+
+
+
+
+
+
+
+
+
+
